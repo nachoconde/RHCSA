@@ -1,4 +1,4 @@
-# 16. Networking
+# Networking
 
 ## Network interfaces
 
