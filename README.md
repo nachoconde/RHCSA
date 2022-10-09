@@ -4,7 +4,7 @@ Collection of notes and exercises to prepare for The Red Hat Certified System Ad
 
 ## Table of Contents
 
-- [Containers](./containers.md)
 - [Networking](./network.md)
-
+- [Firewall](./firewall.md)
+- [Containers](./containers.md)
 - [Resources](./resources.md)
