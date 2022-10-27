@@ -6,6 +6,7 @@ Collection of notes and exercises to prepare for The Red Hat Certified System Ad
 
 - [Basic File management](content/basicfilemgmt.md)
 - [Advanced File management](content/advancedfilemgmt.md)
+- [Users & groups](content/usersgroup.md)
 - [Bash Shell](contentbash.md)
 - [Networking](content/network.md)
 - [Firewall](content/firewall.md)
