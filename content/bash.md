@@ -1,4 +1,4 @@
-# 07. Bash Shell
+# Bash Shell
 
 # Intro
 
