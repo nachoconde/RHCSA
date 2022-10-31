@@ -4,12 +4,12 @@ Collection of notes and exercises to prepare for The Red Hat Certified System Ad
 
 ## Table of Contents
 
-- [Basic File management](content/basicfilemgmt.md)
-- [Advanced File management](content/advancedfilemgmt.md)
-- [Users & groups](content/usersgroup.md)
-- [Bash Shell](content/bash.md)
-- [Shell Scripting](content/shellscript.md)
-- [Networking](content/network.md)
-- [Firewall](content/firewall.md)
-- [Containers](content/containers.md)
-- [Resources](content/resources.md)
+- 01 - [Basic File management](content/basicfilemgmt.md)
+- 02 - [Advanced File management](content/advancedfilemgmt.md)
+- 03 - [Users & groups](content/usersgroup.md)
+- 04 - [Bash Shell](content/bash.md)
+- 05 - [Shell Scripting](content/shellscript.md)
+- 06 - [Networking](content/network.md)
+- 07 - [Firewall](content/firewall.md)
+- 08 - [Containers](content/containers.md)
+- 00 - [Resources](content/resources.md)
