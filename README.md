@@ -12,4 +12,5 @@ Collection of notes and exercises to prepare for The Red Hat Certified System Ad
 - 06 - [Networking](content/network.md)
 - 07 - [Firewall](content/firewall.md)
 - 08 - [Containers](content/containers.md)
+- 09 - [Processes, jobs and task scheduling](content/Processes_jobs_task_scheduling.md)
 - 00 - [Resources](content/resources.md)
